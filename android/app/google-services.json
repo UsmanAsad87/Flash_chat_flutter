@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70017203753",
+    "project_id": "flash-chat-2-c68b4",
+    "storage_bucket": "flash-chat-2-c68b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70017203753:android:0d4af98998d6f1aee32638",
+        "android_client_info": {
+          "package_name": "com.usmanasad.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70017203753-v6p8v9kksgk8eiou497cikl4mb2cg4fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0Z8YXpu5sQXrfzbkPDqP-rdMc5gmqNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70017203753-v6p8v9kksgk8eiou497cikl4mb2cg4fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
